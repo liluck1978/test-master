@@ -1,0 +1,3 @@
+[submodule "lib/submodule"]
+	path = lib/submodule
+	url = /Users/daisuke-matsunaga/test-submodule
